@@ -27,7 +27,8 @@ module.exports = async (req, res, next) => {
 }
 async function exchangeCodeForToken(code) {
     try {
-        let tokenResponse = await superagent.post(tokenServerUrl).set('Content-Type', 'application/x-www-form-urlencoded')
+        let tokenResponse = await superagent.post(tokenServerUrl)
+        .set('Content-Type', 'application/x-www-form-urlencoded')
             .send({
                 code: code,
                 client_id: CLIENT_ID,

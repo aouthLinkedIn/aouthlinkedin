@@ -42,7 +42,7 @@ How popular is this framework? What big companies are running on it? How is it "
 * [framework](http://linkedin.com)
 * [docs](https://docs.microsoft.com/en-us/linkedin/)
 * [examples/tutorials](https://www.youtube.com/watch?time_continue=7&v=jYflkIo1R4A&feature=emb_logo)
-
+* [additional Resource](https://api-university.com/wp-content/uploads/2020/05/worksheet-linkedin.txt?utm_source=sendfox&utm_medium=email&utm_campaign=linkedin-api-oauth-worksheet)
 ### Code Demos
 * [live/running application](https://linkedin401.herokuapp.com/)
 * [code repository](https://github.com/aouthLinkedIn/aouthlinkedin)
